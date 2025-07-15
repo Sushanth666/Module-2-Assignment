@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to right, #020202, #2193b0);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+form.card {
+  max-width: 500px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+h2 {
+  font-weight: bold;
+  
+}
